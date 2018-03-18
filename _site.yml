@@ -1,18 +1,18 @@
 name: "lucy-mcgowan"
 output_dir: "."
 navbar:
-  title: "Lucy D'Agostino McGowan"
+  title: "Awais Rauf"
   right:
     - text: "home"
       href: index.html
     - text: "say hello"
       menu:
         - icon: fa-twitter
-          href: https://twitter.com/LucyStats
+          href: https://twitter.com/iawaisrauf
         - icon: fa-github
-          href: https://github.com/LucyMcGowan
+          href: https://github.com/awaisrauf
         - icon: fa-envelope
-          href: mailto:ld.mcgowan@vanderbilt.edu
+          href: mailto:iawaisrauf@gmail.com
     - text: "blog"
       href: http://livefreeordichotomize.com
     - text: "presentations"
@@ -22,7 +22,7 @@ navbar:
     - text: "teaching experience"
       href: teaching.html
     - text: "CV"
-      href: http://www.lucymcgowan.com/html-cv/live-cv.html
+      href: awaisrauf.github.io/CV.html
 output:
   html_document:
     theme: journal
